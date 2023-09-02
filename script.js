@@ -13,3 +13,4 @@ const combination = `${number1} - ${number2} - ${number3}`;
 // Display the combination in an alert popup.
 alert(`The combination is: ${combination}`);
 
+// Path: script.js
